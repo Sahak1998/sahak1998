@@ -15,11 +15,11 @@ http://portal.rightfarm.tech/ <br>
 
 # 💫 My Tech Certificates:
 Nest.js Course 
-udemy.com/certificate/UC-e0598f32-ff59-46d3-8621-599deffa69a7/ <br>
+https://udemy.com/certificate/UC-e0598f32-ff59-46d3-8621-599deffa69a7/ <br>
 Server-side Development with NodeJS, Express and MongoDB <br>
  https://www.coursera.org/account/accomplishments/verify/7H3M8XCPNET2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course <br>
 Front-End Web Development with React <br>
-[https://side.xyz](https://www.coursera.org/account/accomplishments/verify/QZ4NKSM59CKZ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br>
+ (https://www.coursera.org/account/accomplishments/verify/QZ4NKSM59CKZ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course) <br>
  
 
 ## 🌐 Socials:
